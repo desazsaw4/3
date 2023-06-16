@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>PHP Нет файла noFileExists.php</h1>
+
+<h1>Добро пожаловать на мою домашнюю страницу!</h1>
+<?php require 'noFileExists.php';
+echo "У меня есть $color $car.";
+?>
+
+</body>
+</html>
